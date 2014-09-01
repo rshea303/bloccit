@@ -2,6 +2,10 @@
 
 Made with my mentor at [Bloc](http://bloc.io).
 
+Heroku Approved App Name: richshea-bloccit
+
+richshea-bloccit.herokuapp.com
+
 == README
 
 This README would normally document whatever steps are necessary to get the

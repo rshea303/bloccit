@@ -6,6 +6,11 @@ Heroku Approved App Name: richshea-bloccit
 
 richshea-bloccit.herokuapp.com
 
+config/application.yml
+SENDGRID_USERNAME:
+SENDGRID_PASSWORD:
+DEVISE_SECRET_KEY:
+
 == README
 
 This README would normally document whatever steps are necessary to get the
